@@ -62,5 +62,5 @@ This is a professional-level **Investment Dashboard** built in **Microsoft Excel
 ## 🤝 Connect
 
 If you liked this dashboard or need a custom finance dashboard:
-- 💼 [LinkedIn – Ronak Gohel](https://www.linkedin.com/)
-- 📧 Email: yourname@example.com
+- 💼 LinkedIn – https://www.linkedin.com/in/ronak-gohel-jinu0235/
+- 📧 Email: ronak.work.freelance@gmail.com
